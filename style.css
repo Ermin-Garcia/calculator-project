@@ -7,7 +7,6 @@
 body { 
   display: flex; 
   background: #1f242d; 
-  /*text-align: center; */
   align-items: center; 
   justify-content: center; 
   min-height: 100vh; 
